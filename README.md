@@ -1,2 +1,2 @@
 # Hanoi-Univesity-of-Science-and-Technology
-Code C - Studying at School 
+Code C - Studying at University
